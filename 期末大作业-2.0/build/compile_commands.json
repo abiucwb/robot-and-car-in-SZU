@@ -1,0 +1,25 @@
+[
+{
+  "directory": "C:/Users/18489/Desktop/大三上/计算机图形学 路径勿移动/期末/期末大作业-2.0/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1422~1.279\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -I..\\include -IC:\\vcpkg\\installed\\x64-windows\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\main.dir\\InitShader.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\18489\\Desktop\\大三上\\计算机图形学 路径勿移动\\期末\\期末大作业-2.0\\InitShader.cpp\"",
+  "file": "C:/Users/18489/Desktop/大三上/计算机图形学 路径勿移动/期末/期末大作业-2.0/InitShader.cpp"
+},
+
+{
+  "directory": "C:/Users/18489/Desktop/大三上/计算机图形学 路径勿移动/期末/期末大作业-2.0/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1422~1.279\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -I..\\include -IC:\\vcpkg\\installed\\x64-windows\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\main.dir\\Mesh_Painter.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\18489\\Desktop\\大三上\\计算机图形学 路径勿移动\\期末\\期末大作业-2.0\\Mesh_Painter.cpp\"",
+  "file": "C:/Users/18489/Desktop/大三上/计算机图形学 路径勿移动/期末/期末大作业-2.0/Mesh_Painter.cpp"
+},
+
+{
+  "directory": "C:/Users/18489/Desktop/大三上/计算机图形学 路径勿移动/期末/期末大作业-2.0/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1422~1.279\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -I..\\include -IC:\\vcpkg\\installed\\x64-windows\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\main.dir\\main.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\18489\\Desktop\\大三上\\计算机图形学 路径勿移动\\期末\\期末大作业-2.0\\main.cpp\"",
+  "file": "C:/Users/18489/Desktop/大三上/计算机图形学 路径勿移动/期末/期末大作业-2.0/main.cpp"
+},
+
+{
+  "directory": "C:/Users/18489/Desktop/大三上/计算机图形学 路径勿移动/期末/期末大作业-2.0/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1422~1.279\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -I..\\include -IC:\\vcpkg\\installed\\x64-windows\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\main.dir\\mesh.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\18489\\Desktop\\大三上\\计算机图形学 路径勿移动\\期末\\期末大作业-2.0\\mesh.cpp\"",
+  "file": "C:/Users/18489/Desktop/大三上/计算机图形学 路径勿移动/期末/期末大作业-2.0/mesh.cpp"
+}
+]
